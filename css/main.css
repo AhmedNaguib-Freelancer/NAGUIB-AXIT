@@ -223,14 +223,14 @@ body{
   .social-section .fa-facebook:hover{
   	color: #3b5998;
   }
-  .social-section .fa-twitter:hover{
-  	color: #1da1f2;
+  .social-section .fa-github:hover{
+  	color: #000;
   }
-  .social-section .fa-google-plus:hover{
-  	color: #dd4b39;
+  .social-section .fa-linkedin:hover{
+  	color: #0077b4;
   }
-  .social-section .fa-pinterest:hover{
-  	color: #bd081c;
+  .social-section .fa-behance:hover{
+  	color: #000;
   }
   
   .social-section .fa-instagram:hover{
