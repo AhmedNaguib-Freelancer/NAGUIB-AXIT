@@ -232,12 +232,11 @@ body{
   .social-section .fa-behance:hover{
   	color: #000;
   }
-  
+  .social-section .fa-youtube:hover{
+  	color: #f00;
+  }
   .social-section .fa-instagram:hover{
   	color: #405de6;
-  }
-  .social-section .fa-stumbleupon:hover{
-  	color: #eb4924;
   }
   .social-section .fa-rss:hover{
   	color: #f26522;
