@@ -1,6 +1,6 @@
 VISIT AXIT TEMPLATE {RESPONSIVE MOBILE FRIENDLY WITH BOOTSTRAP USED}
 
-https://ahmednaguib-freelancer.github.io/-NAGUIB-AXIT/
+https://ahmednaguib-freelancer.github.io/NAGUIB-AXIT/
 
 
 ## Welcome to GitHub Pages
