@@ -596,17 +596,17 @@ body{
   margin-bottom: 30px;
 }
 
-.contact-us .contact-btn{
-  margin:30px auto;
-  display: block;
-  padding: 8px 20px;
-  border: 2px solid #fff;
-  background-color: #ff8b38;
-  color: #fff;
-  border-radius: 8px;
-  font-size: 18px;
-  font-weight: bold;
-
+.contact-us .contact-btn {
+    margin: 30px auto;
+    display: block;
+    padding: 8px 20px;
+    border: 2px solid #fff0;
+    background-color: #ff8b38;
+    color: #fff;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: bold;
+    box-shadow: 0 20px 30px 0 rgba(0,0,0,.2);
 }
 
 
